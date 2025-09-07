@@ -53,8 +53,6 @@ java Quiz
 Play the Quiz!
 The quiz will start in the terminal. Answer the questions by typing the letter of your choice (A, B, C, or D) and pressing Enter.
 
-📸 Demo Screenshot
-Here is an example of what the application looks like when running in the terminal:
 
 Welcome to the Football Knowledge Quiz!
 =======================================
